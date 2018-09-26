@@ -7,9 +7,14 @@ package pbo6.pkg10116228.latihan15.logika;
 
 /**
  *
- * @author Rizki Adam Kurniawan
- */
-public class PBO610116228Latihan15Logika {
+ * @author 
+ *  Dosen   : Rizki Adam Kurniawan
+ *  Nama    : Gandy Christian Situmorang
+ *  kelas   : PBO6
+ *  NIM     : 10116228
+ *  deskripsi program    : Program ini berisi program logika
+ *
+ */public class PBO610116228Latihan15Logika {
 
     /**
      * @param args the command line arguments
